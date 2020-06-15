@@ -20,3 +20,4 @@ Route::get('/', function () {
 Route::get('/test', function(){
     return http_response_code();
 });
+
